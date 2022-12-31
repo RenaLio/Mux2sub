@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://my.xyss.xyz/link/N4G0JglUFhlOrVDV?clash=1
+#!MANAGED-CONFIG https://my.xyss.xyz/link/hV5YQJZKMh3SkFSr?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-12-31 12:33:33
+## 上次更新于：2022-12-31 06:30:21
 #---------------------------------------------------#
 
 port: 7890
@@ -14,12 +14,12 @@ external-controller: '0.0.0.0:9090'
 secret: ''
 proxies:
   -
-    name: '官网:my.xyss.xyz'
+    name: '官网:v2.xyss.xyz'
     type: ssr
-    server: my.xyss.xyz
-    port: 32829
+    server: v2.xyss.xyz
+    port: 62108
     cipher: chacha20-ietf
-    password: wvVj7aCt9aPL141G
+    password: 8hjDQvbUkxmKhLVS
     protocol: auth_aes128_sha1
     protocol-param: ''
     obfs: http_simple
@@ -29,7 +29,7 @@ proxy-groups:
     name: 🔰国外流量
     type: select
     proxies:
-      - '官网:my.xyss.xyz'
+      - '官网:v2.xyss.xyz'
       - 🚀直接连接
   -
     name: ⚓️其他流量
@@ -42,31 +42,31 @@ proxy-groups:
     type: select
     proxies:
       - 🔰国外流量
-      - '官网:my.xyss.xyz'
+      - '官网:v2.xyss.xyz'
   -
     name: 🎬Youtube
     type: select
     proxies:
       - 🔰国外流量
-      - '官网:my.xyss.xyz'
+      - '官网:v2.xyss.xyz'
   -
     name: 🎬Netflix
     type: select
     proxies:
       - 🔰国外流量
-      - '官网:my.xyss.xyz'
+      - '官网:v2.xyss.xyz'
   -
     name: 🎬哔哩哔哩
     type: select
     proxies:
       - 🚀直接连接
-      - '官网:my.xyss.xyz'
+      - '官网:v2.xyss.xyz'
   -
     name: 🎬国外媒体
     type: select
     proxies:
       - 🔰国外流量
-      - '官网:my.xyss.xyz'
+      - '官网:v2.xyss.xyz'
   -
     name: 🍎苹果服务
     type: select
