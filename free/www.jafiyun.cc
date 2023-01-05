@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2023-01-06 04:29:21
+## 更新：2023-01-06 06:28:16
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://www.jafiyun.today/link/f9Flg6PTkxsPKMy2?clash=1
+## 链接：https://www.jafiyun.today/link/qlykBDErzSfk9vpu?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,37 +34,37 @@ secret: ''
 
 
 proxies:
-  - {"name":"A-Vip1丨56-日本丨Trojan丨昌日隧道","type":"trojan","server":"scloud56.jafiyun.world","port":22056,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud56.jafiyun.world"}
-  - {"name":"A-Vip1丨57-日本丨Trojan丨昌日隧道","type":"trojan","server":"scloud57.jafiyun.world","port":22057,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud57.jafiyun.world"}
-  - {"name":"A-Vip1丨58-日本丨Trojan丨昌日隧道","type":"trojan","server":"scloud58.jafiyun.world","port":22058,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud58.jafiyun.world"}
-  - {"name":"A-Vip1丨59-日本丨Trojan丨昌日隧道","type":"trojan","server":"scloud59.jafiyun.world","port":22059,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud59.jafiyun.world"}
-  - {"name":"A-Vip1丨60-日本丨Trojan丨昌日隧道","type":"trojan","server":"scloud60.jafiyun.world","port":22060,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud60.jafiyun.world"}
-  - {"name":"A-Vip1丨日本25丨","type":"vmess","server":"jp02.jafiyun.world","port":21125,"uuid":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨29-台湾丨Trojan丨隧道专线","type":"trojan","server":"scloud29.jafiyun.world","port":22029,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud29.jafiyun.world"}
-  - {"name":"Vip1丨41-香港丨Trojan丨隧道专线","type":"trojan","server":"scloud41.jafiyun.world","port":22041,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud41.jafiyun.world"}
-  - {"name":"Vip1丨42-香港丨Trojan丨隧道专线 ","type":"trojan","server":"scloud42.jafiyun.world","port":22042,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud42.jafiyun.world"}
-  - {"name":"Vip1丨43-香港丨Trojan丨隧道专线","type":"trojan","server":"scloud43.jafiyun.world","port":22043,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud43.jafiyun.world"}
-  - {"name":"Vip1丨51-台湾丨Trojan丨海港专线","type":"trojan","server":"scloud51.jafiyun.world","port":22051,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud51.jafiyun.world"}
-  - {"name":"Vip1丨52-韩国丨Trojan丨昌日隧道","type":"trojan","server":"scloud52.jafiyun.world","port":22052,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud52.jafiyun.world"}
-  - {"name":"Vip1丨53-韩国丨Trojan丨昌日隧道","type":"trojan","server":"scloud53.jafiyun.world","port":22053,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud53.jafiyun.world"}
-  - {"name":"Vip1丨54-韩国丨Trojan丨昌日隧道","type":"trojan","server":"scloud54.jafiyun.world","port":22054,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud54.jafiyun.world"}
-  - {"name":"Vip1丨加拿大08丨海港专线","type":"vmess","server":"us08.jafiyun.world","port":21121,"uuid":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨印度09丨海港专线","type":"vmess","server":"us09.jafiyun.world","port":21122,"uuid":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨台湾30丨隧道专线","type":"vmess","server":"scloud30.jafiyun.world","port":22030,"uuid":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨台湾31丨隧道专线","type":"vmess","server":"scloud31.jafiyun.world","port":22031,"uuid":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨台湾32丨隧道专线","type":"vmess","server":"scloud32.jafiyun.world","port":22032,"uuid":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨台湾33丨隧道专线","type":"vmess","server":"scloud33.jafiyun.world","port":22033,"uuid":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨德国06丨海港专线","type":"vmess","server":"us06.jafiyun.world","port":21119,"uuid":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨新加坡01丨谷歌更新丨海港专线","type":"vmess","server":"sg01.jafiyun.world","port":21104,"uuid":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨新加坡02丨海港专线","type":"vmess","server":"sg02.jafiyun.world","port":21105,"uuid":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨新加坡03丨海港专线","type":"vmess","server":"sg03.jafiyun.world","port":21106,"uuid":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨澳大利亚01丨61 丨","type":"vmess","server":"au01.jafiyun.world","port":21161,"uuid":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨美国12丨TIKTOK","type":"trojan","server":"scloud12.jafiyun.world","port":22012,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud12.jafiyun.world"}
-  - {"name":"Vip1丨美国15丨TIKTOK","type":"trojan","server":"scloud15.jafiyun.world","port":22015,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud15.jafiyun.world"}
-  - {"name":"Vip1丨美国16丨TIKTOK","type":"trojan","server":"scloud16.jafiyun.world","port":22016,"password":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","sni":"scloud16.jafiyun.world"}
-  - {"name":"Vip1丨英国10丨海港专线","type":"vmess","server":"us10.jafiyun.world","port":21123,"uuid":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨香港17丨 海港专线","type":"vmess","server":"scloud17.jafiyun.world","port":22017,"uuid":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"Vip1丨香港18丨 海港专线","type":"vmess","server":"scloud18.jafiyun.world","port":22018,"uuid":"de1076f1-e3b2-38e2-be65-ad34e8c4dd2d","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"A-Vip1丨56-日本丨Trojan丨昌日隧道","type":"trojan","server":"scloud56.jafiyun.world","port":22056,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud56.jafiyun.world"}
+  - {"name":"A-Vip1丨57-日本丨Trojan丨昌日隧道","type":"trojan","server":"scloud57.jafiyun.world","port":22057,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud57.jafiyun.world"}
+  - {"name":"A-Vip1丨58-日本丨Trojan丨昌日隧道","type":"trojan","server":"scloud58.jafiyun.world","port":22058,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud58.jafiyun.world"}
+  - {"name":"A-Vip1丨59-日本丨Trojan丨昌日隧道","type":"trojan","server":"scloud59.jafiyun.world","port":22059,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud59.jafiyun.world"}
+  - {"name":"A-Vip1丨60-日本丨Trojan丨昌日隧道","type":"trojan","server":"scloud60.jafiyun.world","port":22060,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud60.jafiyun.world"}
+  - {"name":"A-Vip1丨日本25丨","type":"vmess","server":"jp02.jafiyun.world","port":21125,"uuid":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨29-台湾丨Trojan丨隧道专线","type":"trojan","server":"scloud29.jafiyun.world","port":22029,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud29.jafiyun.world"}
+  - {"name":"Vip1丨41-香港丨Trojan丨隧道专线","type":"trojan","server":"scloud41.jafiyun.world","port":22041,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud41.jafiyun.world"}
+  - {"name":"Vip1丨42-香港丨Trojan丨隧道专线 ","type":"trojan","server":"scloud42.jafiyun.world","port":22042,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud42.jafiyun.world"}
+  - {"name":"Vip1丨43-香港丨Trojan丨隧道专线","type":"trojan","server":"scloud43.jafiyun.world","port":22043,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud43.jafiyun.world"}
+  - {"name":"Vip1丨51-台湾丨Trojan丨海港专线","type":"trojan","server":"scloud51.jafiyun.world","port":22051,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud51.jafiyun.world"}
+  - {"name":"Vip1丨52-韩国丨Trojan丨昌日隧道","type":"trojan","server":"scloud52.jafiyun.world","port":22052,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud52.jafiyun.world"}
+  - {"name":"Vip1丨53-韩国丨Trojan丨昌日隧道","type":"trojan","server":"scloud53.jafiyun.world","port":22053,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud53.jafiyun.world"}
+  - {"name":"Vip1丨54-韩国丨Trojan丨昌日隧道","type":"trojan","server":"scloud54.jafiyun.world","port":22054,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud54.jafiyun.world"}
+  - {"name":"Vip1丨加拿大08丨海港专线","type":"vmess","server":"us08.jafiyun.world","port":21121,"uuid":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨印度09丨海港专线","type":"vmess","server":"us09.jafiyun.world","port":21122,"uuid":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨台湾30丨隧道专线","type":"vmess","server":"scloud30.jafiyun.world","port":22030,"uuid":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨台湾31丨隧道专线","type":"vmess","server":"scloud31.jafiyun.world","port":22031,"uuid":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨台湾32丨隧道专线","type":"vmess","server":"scloud32.jafiyun.world","port":22032,"uuid":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨台湾33丨隧道专线","type":"vmess","server":"scloud33.jafiyun.world","port":22033,"uuid":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨德国06丨海港专线","type":"vmess","server":"us06.jafiyun.world","port":21119,"uuid":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨新加坡01丨谷歌更新丨海港专线","type":"vmess","server":"sg01.jafiyun.world","port":21104,"uuid":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨新加坡02丨海港专线","type":"vmess","server":"sg02.jafiyun.world","port":21105,"uuid":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨新加坡03丨海港专线","type":"vmess","server":"sg03.jafiyun.world","port":21106,"uuid":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨澳大利亚01丨61 丨","type":"vmess","server":"au01.jafiyun.world","port":21161,"uuid":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨美国12丨TIKTOK","type":"trojan","server":"scloud12.jafiyun.world","port":22012,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud12.jafiyun.world"}
+  - {"name":"Vip1丨美国15丨TIKTOK","type":"trojan","server":"scloud15.jafiyun.world","port":22015,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud15.jafiyun.world"}
+  - {"name":"Vip1丨美国16丨TIKTOK","type":"trojan","server":"scloud16.jafiyun.world","port":22016,"password":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","sni":"scloud16.jafiyun.world"}
+  - {"name":"Vip1丨英国10丨海港专线","type":"vmess","server":"us10.jafiyun.world","port":21123,"uuid":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨香港17丨 海港专线","type":"vmess","server":"scloud17.jafiyun.world","port":22017,"uuid":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"Vip1丨香港18丨 海港专线","type":"vmess","server":"scloud18.jafiyun.world","port":22018,"uuid":"a707c8cf-3d12-3d6c-b180-253c4d90e3e3","alterId":2,"cipher":"auto","udp":true}
 
 proxy-groups:
 -
