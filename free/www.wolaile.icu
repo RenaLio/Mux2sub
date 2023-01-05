@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.wolaile.icu/link/TSwy2Q4yuMTVKYMn?clash=1
+#!MANAGED-CONFIG https://www.hxyyds.top/link/gtbVDAokedkjm65i?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-11-04 04:43:39
+## 上次更新于：2023-01-05 08:49:01
 #---------------------------------------------------#
 
 port: 7890
@@ -14,163 +14,99 @@ external-controller: '0.0.0.0:9090'
 secret: ''
 proxies:
   -
-    name: AAA临时节点美国免流
+    name: 'Hong Kong Ⅰ1'
+    type: vmess
+    server: shdx.donghui.tech
+    port: 21005
+    uuid: 495fab98-6f7d-3f3b-bf34-a8ec84cc898c
+    alterId: 2
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: shdx.donghui.tech
+    ws-opts:
+      path: /index
+      headers: { Host: shdx.donghui.tech }
+  -
+    name: 'Hong Kong Ⅰ2'
     type: vmess
     server: gyiepl.1aba.cn
-    port: 24940
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
+    port: 14853
+    uuid: 495fab98-6f7d-3f3b-bf34-a8ec84cc898c
     alterId: 2
     cipher: auto
     udp: true
   -
-    name: V1-sc日本1—IEPL
+    name: 'Japan Ⅰ1'
     type: vmess
-    server: awsbj01.1aba.cn
-    port: 19279
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
+    server: ahhfb.fosi.hk
+    port: 27154
+    uuid: 495fab98-6f7d-3f3b-bf34-a8ec84cc898c
     alterId: 0
     cipher: auto
     udp: true
   -
-    name: V2-sc人妖天堂—广港
-    type: vmess
-    server: gyiepl.1aba.cn
-    port: 49977
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
-    alterId: 0
-    cipher: auto
-    udp: true
-  -
-    name: V2-sc新加坡2—广港
-    type: vmess
-    server: gddxc.fosi.hk
-    port: 13885
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
-    alterId: 0
-    cipher: auto
-    udp: true
-  -
-    name: V2-柬埔寨—广移
-    type: vmess
-    server: gddxc.fosi.hk
-    port: 49898
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
-    alterId: 2
-    cipher: auto
-    udp: true
-  -
-    name: Ⅰ-sc台湾1—广港
-    type: vmess
-    server: gyiepl.1aba.cn
-    port: 38751
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
-    alterId: 0
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: gyiepl.1aba.cn
-    ws-opts:
-      path: /index
-      headers: { Host: gyiepl.1aba.cn }
-  -
-    name: "Ⅰ-sc台湾2—广港\t"
-    type: vmess
-    server: gyiepl.1aba.cn
-    port: 52200
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
-    alterId: 0
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: gyiepl.1aba.cn
-    ws-opts:
-      path: /index
-      headers: { Host: gyiepl.1aba.cn }
-  -
-    name: Ⅰ-sc新加坡1—广港
-    type: vmess
-    server: gddxd.fosi.hk
-    port: 21465
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
-    alterId: 0
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: gddxd.fosi.hk
-    ws-opts:
-      path: /index
-      headers: { Host: gddxd.fosi.hk }
-  -
-    name: Ⅰ-sc菲律宾1—广港
+    name: 'Philippines Ⅰ1'
     type: vmess
     server: gyiepl.1aba.cn
     port: 49138
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
+    uuid: 495fab98-6f7d-3f3b-bf34-a8ec84cc898c
     alterId: 0
     cipher: auto
     udp: true
   -
-    name: Ⅰ-sc菲律宾2—广港
+    name: 'Philippines Ⅰ2'
     type: vmess
     server: gyiepl.1aba.cn
-    port: 36512
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
+    port: 49138
+    uuid: 495fab98-6f7d-3f3b-bf34-a8ec84cc898c
     alterId: 0
     cipher: auto
     udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: gyiepl.1aba.cn
-    ws-opts:
-      path: /index
-      headers: { Host: gyiepl.1aba.cn }
   -
-    name: Ⅰ-sc越南1—广港
-    type: vmess
-    server: gddxd.fosi.hk
-    port: 19360
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
-    alterId: 0
-    cipher: auto
-    udp: true
-    network: ws
-    ws-path: /index
-    ws-headers:
-      Host: gddxd.fosi.hk
-    ws-opts:
-      path: /index
-      headers: { Host: gddxd.fosi.hk }
-  -
-    name: "Ⅰ-sc越南2—广港\t"
+    name: 'Singapore Ⅰ1'
     type: vmess
     server: gddxc.fosi.hk
-    port: 25938
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
-    alterId: 2
+    port: 13885
+    uuid: 495fab98-6f7d-3f3b-bf34-a8ec84cc898c
+    alterId: 0
     cipher: auto
     udp: true
   -
-    name: Ⅰ-sc韩国1—广港
+    name: 'Singapore Ⅰ2'
+    type: vmess
+    server: gddxc.fosi.hk
+    port: 13885
+    uuid: 495fab98-6f7d-3f3b-bf34-a8ec84cc898c
+    alterId: 0
+    cipher: auto
+    udp: true
+  -
+    name: 'South Korea Ⅰ1'
     type: vmess
     server: gddxd.fosi.hk
     port: 24956
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
+    uuid: 495fab98-6f7d-3f3b-bf34-a8ec84cc898c
     alterId: 0
     cipher: auto
     udp: true
   -
-    name: Ⅰ-sc韩国2—广港
+    name: 'South Korea Ⅰ2'
+    type: vmess
+    server: gddxd.fosi.hk
+    port: 24956
+    uuid: 495fab98-6f7d-3f3b-bf34-a8ec84cc898c
+    alterId: 0
+    cipher: auto
+    udp: true
+  -
+    name: 'South Korea Ⅱ3'
     type: vmess
     server: gddxc.fosi.hk
     port: 44627
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
+    uuid: 495fab98-6f7d-3f3b-bf34-a8ec84cc898c
     alterId: 0
     cipher: auto
     udp: true
@@ -182,27 +118,75 @@ proxies:
       path: /index
       headers: { Host: gddxc.fosi.hk }
   -
-    name: Ⅰ-sc香港1—广港
+    name: 'TAIWAN Ⅰ1'
     type: vmess
-    server: gyiepl.1aba.cn
-    port: 28235
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
-    alterId: 2
+    server: gddx.fosi.hk
+    port: 32948
+    uuid: 495fab98-6f7d-3f3b-bf34-a8ec84cc898c
+    alterId: 0
     cipher: auto
     udp: true
     network: ws
     ws-path: /index
     ws-headers:
-      Host: gyiepl.1aba.cn
+      Host: gddx.fosi.hk
     ws-opts:
       path: /index
-      headers: { Host: gyiepl.1aba.cn }
+      headers: { Host: gddx.fosi.hk }
   -
-    name: Ⅰ-sc香港2—广港
+    name: 'TAIWAN Ⅰ2'
     type: vmess
-    server: gyiepl.1aba.cn
-    port: 14853
-    uuid: de30e751-41b8-3797-8496-e9bb9350b1e5
+    server: gddxd.fosi.hk
+    port: 26242
+    uuid: 495fab98-6f7d-3f3b-bf34-a8ec84cc898c
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: gddxd.fosi.hk
+    ws-opts:
+      path: /index
+      headers: { Host: gddxd.fosi.hk }
+  -
+    name: 'Vietnam Ⅰ1'
+    type: vmess
+    server: gddxd.fosi.hk
+    port: 19360
+    uuid: 495fab98-6f7d-3f3b-bf34-a8ec84cc898c
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: gddxd.fosi.hk
+    ws-opts:
+      path: /index
+      headers: { Host: gddxd.fosi.hk }
+  -
+    name: 'Vietnam Ⅰ2'
+    type: vmess
+    server: gddxd.fosi.hk
+    port: 19360
+    uuid: 495fab98-6f7d-3f3b-bf34-a8ec84cc898c
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: ws
+    ws-path: /index
+    ws-headers:
+      Host: gddxd.fosi.hk
+    ws-opts:
+      path: /index
+      headers: { Host: gddxd.fosi.hk }
+  -
+    name: 'Vietnam Ⅱ3'
+    type: vmess
+    server: gddxc.fosi.hk
+    port: 25938
+    uuid: 495fab98-6f7d-3f3b-bf34-a8ec84cc898c
     alterId: 2
     cipher: auto
     udp: true
@@ -211,22 +195,21 @@ proxy-groups:
     name: 🔰国外流量
     type: select
     proxies:
-      - AAA临时节点美国免流
-      - V1-sc日本1—IEPL
-      - V2-sc人妖天堂—广港
-      - V2-sc新加坡2—广港
-      - V2-柬埔寨—广移
-      - Ⅰ-sc台湾1—广港
-      - "Ⅰ-sc台湾2—广港\t"
-      - Ⅰ-sc新加坡1—广港
-      - Ⅰ-sc菲律宾1—广港
-      - Ⅰ-sc菲律宾2—广港
-      - Ⅰ-sc越南1—广港
-      - "Ⅰ-sc越南2—广港\t"
-      - Ⅰ-sc韩国1—广港
-      - Ⅰ-sc韩国2—广港
-      - Ⅰ-sc香港1—广港
-      - Ⅰ-sc香港2—广港
+      - 'Hong Kong Ⅰ1'
+      - 'Hong Kong Ⅰ2'
+      - 'Japan Ⅰ1'
+      - 'Philippines Ⅰ1'
+      - 'Philippines Ⅰ2'
+      - 'Singapore Ⅰ1'
+      - 'Singapore Ⅰ2'
+      - 'South Korea Ⅰ1'
+      - 'South Korea Ⅰ2'
+      - 'South Korea Ⅱ3'
+      - 'TAIWAN Ⅰ1'
+      - 'TAIWAN Ⅰ2'
+      - 'Vietnam Ⅰ1'
+      - 'Vietnam Ⅰ2'
+      - 'Vietnam Ⅱ3'
       - 🚀直接连接
   -
     name: ⚓️其他流量
@@ -239,106 +222,101 @@ proxy-groups:
     type: select
     proxies:
       - 🔰国外流量
-      - AAA临时节点美国免流
-      - V1-sc日本1—IEPL
-      - V2-sc人妖天堂—广港
-      - V2-sc新加坡2—广港
-      - V2-柬埔寨—广移
-      - Ⅰ-sc台湾1—广港
-      - "Ⅰ-sc台湾2—广港\t"
-      - Ⅰ-sc新加坡1—广港
-      - Ⅰ-sc菲律宾1—广港
-      - Ⅰ-sc菲律宾2—广港
-      - Ⅰ-sc越南1—广港
-      - "Ⅰ-sc越南2—广港\t"
-      - Ⅰ-sc韩国1—广港
-      - Ⅰ-sc韩国2—广港
-      - Ⅰ-sc香港1—广港
-      - Ⅰ-sc香港2—广港
+      - 'Hong Kong Ⅰ1'
+      - 'Hong Kong Ⅰ2'
+      - 'Japan Ⅰ1'
+      - 'Philippines Ⅰ1'
+      - 'Philippines Ⅰ2'
+      - 'Singapore Ⅰ1'
+      - 'Singapore Ⅰ2'
+      - 'South Korea Ⅰ1'
+      - 'South Korea Ⅰ2'
+      - 'South Korea Ⅱ3'
+      - 'TAIWAN Ⅰ1'
+      - 'TAIWAN Ⅰ2'
+      - 'Vietnam Ⅰ1'
+      - 'Vietnam Ⅰ2'
+      - 'Vietnam Ⅱ3'
   -
     name: 🎬Youtube
     type: select
     proxies:
       - 🔰国外流量
-      - AAA临时节点美国免流
-      - V1-sc日本1—IEPL
-      - V2-sc人妖天堂—广港
-      - V2-sc新加坡2—广港
-      - V2-柬埔寨—广移
-      - Ⅰ-sc台湾1—广港
-      - "Ⅰ-sc台湾2—广港\t"
-      - Ⅰ-sc新加坡1—广港
-      - Ⅰ-sc菲律宾1—广港
-      - Ⅰ-sc菲律宾2—广港
-      - Ⅰ-sc越南1—广港
-      - "Ⅰ-sc越南2—广港\t"
-      - Ⅰ-sc韩国1—广港
-      - Ⅰ-sc韩国2—广港
-      - Ⅰ-sc香港1—广港
-      - Ⅰ-sc香港2—广港
+      - 'Hong Kong Ⅰ1'
+      - 'Hong Kong Ⅰ2'
+      - 'Japan Ⅰ1'
+      - 'Philippines Ⅰ1'
+      - 'Philippines Ⅰ2'
+      - 'Singapore Ⅰ1'
+      - 'Singapore Ⅰ2'
+      - 'South Korea Ⅰ1'
+      - 'South Korea Ⅰ2'
+      - 'South Korea Ⅱ3'
+      - 'TAIWAN Ⅰ1'
+      - 'TAIWAN Ⅰ2'
+      - 'Vietnam Ⅰ1'
+      - 'Vietnam Ⅰ2'
+      - 'Vietnam Ⅱ3'
   -
     name: 🎬Netflix
     type: select
     proxies:
       - 🔰国外流量
-      - AAA临时节点美国免流
-      - V1-sc日本1—IEPL
-      - V2-sc人妖天堂—广港
-      - V2-sc新加坡2—广港
-      - V2-柬埔寨—广移
-      - Ⅰ-sc台湾1—广港
-      - "Ⅰ-sc台湾2—广港\t"
-      - Ⅰ-sc新加坡1—广港
-      - Ⅰ-sc菲律宾1—广港
-      - Ⅰ-sc菲律宾2—广港
-      - Ⅰ-sc越南1—广港
-      - "Ⅰ-sc越南2—广港\t"
-      - Ⅰ-sc韩国1—广港
-      - Ⅰ-sc韩国2—广港
-      - Ⅰ-sc香港1—广港
-      - Ⅰ-sc香港2—广港
+      - 'Hong Kong Ⅰ1'
+      - 'Hong Kong Ⅰ2'
+      - 'Japan Ⅰ1'
+      - 'Philippines Ⅰ1'
+      - 'Philippines Ⅰ2'
+      - 'Singapore Ⅰ1'
+      - 'Singapore Ⅰ2'
+      - 'South Korea Ⅰ1'
+      - 'South Korea Ⅰ2'
+      - 'South Korea Ⅱ3'
+      - 'TAIWAN Ⅰ1'
+      - 'TAIWAN Ⅰ2'
+      - 'Vietnam Ⅰ1'
+      - 'Vietnam Ⅰ2'
+      - 'Vietnam Ⅱ3'
   -
     name: 🎬哔哩哔哩
     type: select
     proxies:
       - 🚀直接连接
-      - AAA临时节点美国免流
-      - V1-sc日本1—IEPL
-      - V2-sc人妖天堂—广港
-      - V2-sc新加坡2—广港
-      - V2-柬埔寨—广移
-      - Ⅰ-sc台湾1—广港
-      - "Ⅰ-sc台湾2—广港\t"
-      - Ⅰ-sc新加坡1—广港
-      - Ⅰ-sc菲律宾1—广港
-      - Ⅰ-sc菲律宾2—广港
-      - Ⅰ-sc越南1—广港
-      - "Ⅰ-sc越南2—广港\t"
-      - Ⅰ-sc韩国1—广港
-      - Ⅰ-sc韩国2—广港
-      - Ⅰ-sc香港1—广港
-      - Ⅰ-sc香港2—广港
+      - 'Hong Kong Ⅰ1'
+      - 'Hong Kong Ⅰ2'
+      - 'Japan Ⅰ1'
+      - 'Philippines Ⅰ1'
+      - 'Philippines Ⅰ2'
+      - 'Singapore Ⅰ1'
+      - 'Singapore Ⅰ2'
+      - 'South Korea Ⅰ1'
+      - 'South Korea Ⅰ2'
+      - 'South Korea Ⅱ3'
+      - 'TAIWAN Ⅰ1'
+      - 'TAIWAN Ⅰ2'
+      - 'Vietnam Ⅰ1'
+      - 'Vietnam Ⅰ2'
+      - 'Vietnam Ⅱ3'
   -
     name: 🎬国外媒体
     type: select
     proxies:
       - 🔰国外流量
-      - AAA临时节点美国免流
-      - V1-sc日本1—IEPL
-      - V2-sc人妖天堂—广港
-      - V2-sc新加坡2—广港
-      - V2-柬埔寨—广移
-      - Ⅰ-sc台湾1—广港
-      - "Ⅰ-sc台湾2—广港\t"
-      - Ⅰ-sc新加坡1—广港
-      - Ⅰ-sc菲律宾1—广港
-      - Ⅰ-sc菲律宾2—广港
-      - Ⅰ-sc越南1—广港
-      - "Ⅰ-sc越南2—广港\t"
-      - Ⅰ-sc韩国1—广港
-      - Ⅰ-sc韩国2—广港
-      - Ⅰ-sc香港1—广港
-      - Ⅰ-sc香港2—广港
+      - 'Hong Kong Ⅰ1'
+      - 'Hong Kong Ⅰ2'
+      - 'Japan Ⅰ1'
+      - 'Philippines Ⅰ1'
+      - 'Philippines Ⅰ2'
+      - 'Singapore Ⅰ1'
+      - 'Singapore Ⅰ2'
+      - 'South Korea Ⅰ1'
+      - 'South Korea Ⅰ2'
+      - 'South Korea Ⅱ3'
+      - 'TAIWAN Ⅰ1'
+      - 'TAIWAN Ⅰ2'
+      - 'Vietnam Ⅰ1'
+      - 'Vietnam Ⅰ2'
+      - 'Vietnam Ⅱ3'
   -
     name: 🍎苹果服务
     type: select
