@@ -1,7 +1,7 @@
 #---------------------------------------------------#
-## 更新：2023-01-08 12:34:20
+## 更新：2023-01-08 02:34:02
 ## 感谢：https://github.com/Hackl0us/SS-Rule-Snippet
-## 链接：https://www.wogwog.top/link/ycwjaURfaCNBNbKe?clash=1
+## 链接：https://www.wogwog.top/link/bkWWdOHNv7bZGOrn?clash=1
 #---------------------------------------------------#
 
 # HTTP 代理端口
@@ -34,28 +34,28 @@ secret: ''
 
 
 proxies:
-  - {"name":"[vip1]︱V2ray︱①台湾｜原生节点 1000M｜×1倍率｜限速100M","type":"vmess","server":"124.wgong1.top","port":52224,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱②韩国｜原生节点 1000M｜×1倍率｜限速100M","type":"vmess","server":"123.wgong1.top","port":52223,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱③日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"122.wgong1.top","port":52222,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱④日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"121.wgong1.top","port":52221,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑤新加坡 1000M｜×1倍率｜限速100M","type":"vmess","server":"120.wgong1.top","port":52220,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑥美国 1000M｜×1倍率｜限速100M","type":"vmess","server":"119.wgong1.top","port":52219,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑦日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"118.wgong1.top","port":52218,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑧日本原生 1000M｜×1倍率｜限速100M","type":"vmess","server":"117.wgong1.top","port":52217,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑨日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"116.wgong1.top","port":52216,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑩日本1000M｜×1倍率｜限速100M","type":"vmess","server":"115.wgong1.top","port":52215,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑪日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"114.wgong1.top","port":52214,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑫韩国1000M｜×1倍率｜限速100M","type":"vmess","server":"113.wgong1.top","port":52213,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑬日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"112.wgong1.top","port":52212,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑭日本 600M｜×1倍率｜限速100M","type":"vmess","server":"111.wgong1.top","port":52211,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑮韩国 1000M｜×1倍率｜限速100M","type":"vmess","server":"34.wgong1.top","port":52234,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑯日本NTT 1000M｜×1倍率｜限速100M","type":"vmess","server":"33.wgong1.top","port":52233,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑰香港 1000M｜×1倍率｜限速100M","type":"vmess","server":"32.wgong1.top","port":52232,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑱香港 1000M｜×1倍率｜限速100M","type":"vmess","server":"31.wgong1.top","port":52231,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑲台湾 1000M｜×1倍率｜限速100M","type":"vmess","server":"30.wgong1.top","port":52230,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱⑳香港 1000M｜×1倍率｜限速100M","type":"vmess","server":"29.wgong1.top","port":52229,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱㉑香港 1000M｜×1倍率｜限速100M","type":"vmess","server":"4.wgong1.top","port":11204,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
-  - {"name":"[vip1]︱V2ray︱㉒香港 1000M｜×1倍率｜限速100M","type":"vmess","server":"3.wgong1.top","port":11203,"uuid":"e80dd3a8-f3f7-34b3-9c4a-6df6aeabb3c0","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱①台湾｜原生节点 1000M｜×1倍率｜限速100M","type":"vmess","server":"124.wgong1.top","port":52224,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱②韩国｜原生节点 1000M｜×1倍率｜限速100M","type":"vmess","server":"123.wgong1.top","port":52223,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱③日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"122.wgong1.top","port":52222,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱④日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"121.wgong1.top","port":52221,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑤新加坡 1000M｜×1倍率｜限速100M","type":"vmess","server":"120.wgong1.top","port":52220,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑥美国 1000M｜×1倍率｜限速100M","type":"vmess","server":"119.wgong1.top","port":52219,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑦日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"118.wgong1.top","port":52218,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑧日本原生 1000M｜×1倍率｜限速100M","type":"vmess","server":"117.wgong1.top","port":52217,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑨日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"116.wgong1.top","port":52216,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑩日本1000M｜×1倍率｜限速100M","type":"vmess","server":"115.wgong1.top","port":52215,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑪日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"114.wgong1.top","port":52214,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑫韩国1000M｜×1倍率｜限速100M","type":"vmess","server":"113.wgong1.top","port":52213,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑬日本 1000M｜×1倍率｜限速100M","type":"vmess","server":"112.wgong1.top","port":52212,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑭日本 600M｜×1倍率｜限速100M","type":"vmess","server":"111.wgong1.top","port":52211,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑮韩国 1000M｜×1倍率｜限速100M","type":"vmess","server":"34.wgong1.top","port":52234,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑯日本NTT 1000M｜×1倍率｜限速100M","type":"vmess","server":"33.wgong1.top","port":52233,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑰香港 1000M｜×1倍率｜限速100M","type":"vmess","server":"32.wgong1.top","port":52232,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑱香港 1000M｜×1倍率｜限速100M","type":"vmess","server":"31.wgong1.top","port":52231,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑲台湾 1000M｜×1倍率｜限速100M","type":"vmess","server":"30.wgong1.top","port":52230,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱⑳香港 1000M｜×1倍率｜限速100M","type":"vmess","server":"29.wgong1.top","port":52229,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱㉑香港 1000M｜×1倍率｜限速100M","type":"vmess","server":"4.wgong1.top","port":11204,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
+  - {"name":"[vip1]︱V2ray︱㉒香港 1000M｜×1倍率｜限速100M","type":"vmess","server":"3.wgong1.top","port":11203,"uuid":"bff237af-7ec0-3068-b385-a8967c4dfccf","alterId":2,"cipher":"auto","udp":true}
 
 proxy-groups:
 -
