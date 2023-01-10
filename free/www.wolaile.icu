@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://www.hxyyds.top/link/sMz0LprEJsOx06w5?clash=1
+#!MANAGED-CONFIG https://www.hxyyds.top/link/nSYvO3GKkXP0JvgF?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2023-01-10 06:31:07
+## 上次更新于：2023-01-11 12:42:31
 #---------------------------------------------------#
 
 port: 7890
@@ -18,7 +18,7 @@ proxies:
     type: vmess
     server: shdx.donghui.tech
     port: 21005
-    uuid: 6b6f48b9-95b1-35e9-961c-e0bc6b7c4c57
+    uuid: 6829b96b-ae1c-3328-a4b2-ee9ba89bc6d7
     alterId: 2
     cipher: auto
     udp: true
@@ -34,7 +34,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 14853
-    uuid: 6b6f48b9-95b1-35e9-961c-e0bc6b7c4c57
+    uuid: 6829b96b-ae1c-3328-a4b2-ee9ba89bc6d7
     alterId: 2
     cipher: auto
     udp: true
@@ -43,7 +43,7 @@ proxies:
     type: vmess
     server: ahhfb.fosi.hk
     port: 27154
-    uuid: 6b6f48b9-95b1-35e9-961c-e0bc6b7c4c57
+    uuid: 6829b96b-ae1c-3328-a4b2-ee9ba89bc6d7
     alterId: 0
     cipher: auto
     udp: true
@@ -52,7 +52,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 49138
-    uuid: 6b6f48b9-95b1-35e9-961c-e0bc6b7c4c57
+    uuid: 6829b96b-ae1c-3328-a4b2-ee9ba89bc6d7
     alterId: 0
     cipher: auto
     udp: true
@@ -61,7 +61,7 @@ proxies:
     type: vmess
     server: gyiepl.1aba.cn
     port: 49138
-    uuid: 6b6f48b9-95b1-35e9-961c-e0bc6b7c4c57
+    uuid: 6829b96b-ae1c-3328-a4b2-ee9ba89bc6d7
     alterId: 0
     cipher: auto
     udp: true
@@ -70,7 +70,7 @@ proxies:
     type: vmess
     server: gddxc.fosi.hk
     port: 13885
-    uuid: 6b6f48b9-95b1-35e9-961c-e0bc6b7c4c57
+    uuid: 6829b96b-ae1c-3328-a4b2-ee9ba89bc6d7
     alterId: 0
     cipher: auto
     udp: true
@@ -79,7 +79,7 @@ proxies:
     type: vmess
     server: gddxc.fosi.hk
     port: 13885
-    uuid: 6b6f48b9-95b1-35e9-961c-e0bc6b7c4c57
+    uuid: 6829b96b-ae1c-3328-a4b2-ee9ba89bc6d7
     alterId: 0
     cipher: auto
     udp: true
@@ -88,7 +88,7 @@ proxies:
     type: vmess
     server: gddxd.fosi.hk
     port: 24956
-    uuid: 6b6f48b9-95b1-35e9-961c-e0bc6b7c4c57
+    uuid: 6829b96b-ae1c-3328-a4b2-ee9ba89bc6d7
     alterId: 0
     cipher: auto
     udp: true
@@ -97,7 +97,7 @@ proxies:
     type: vmess
     server: gddxd.fosi.hk
     port: 24956
-    uuid: 6b6f48b9-95b1-35e9-961c-e0bc6b7c4c57
+    uuid: 6829b96b-ae1c-3328-a4b2-ee9ba89bc6d7
     alterId: 0
     cipher: auto
     udp: true
@@ -106,7 +106,7 @@ proxies:
     type: vmess
     server: gddxc.fosi.hk
     port: 44627
-    uuid: 6b6f48b9-95b1-35e9-961c-e0bc6b7c4c57
+    uuid: 6829b96b-ae1c-3328-a4b2-ee9ba89bc6d7
     alterId: 0
     cipher: auto
     udp: true
@@ -122,7 +122,7 @@ proxies:
     type: vmess
     server: gddx.fosi.hk
     port: 32948
-    uuid: 6b6f48b9-95b1-35e9-961c-e0bc6b7c4c57
+    uuid: 6829b96b-ae1c-3328-a4b2-ee9ba89bc6d7
     alterId: 0
     cipher: auto
     udp: true
@@ -138,7 +138,7 @@ proxies:
     type: vmess
     server: gddxd.fosi.hk
     port: 26242
-    uuid: 6b6f48b9-95b1-35e9-961c-e0bc6b7c4c57
+    uuid: 6829b96b-ae1c-3328-a4b2-ee9ba89bc6d7
     alterId: 0
     cipher: auto
     udp: true
@@ -154,7 +154,7 @@ proxies:
     type: vmess
     server: gddxd.fosi.hk
     port: 19360
-    uuid: 6b6f48b9-95b1-35e9-961c-e0bc6b7c4c57
+    uuid: 6829b96b-ae1c-3328-a4b2-ee9ba89bc6d7
     alterId: 0
     cipher: auto
     udp: true
@@ -170,7 +170,7 @@ proxies:
     type: vmess
     server: gddxd.fosi.hk
     port: 19360
-    uuid: 6b6f48b9-95b1-35e9-961c-e0bc6b7c4c57
+    uuid: 6829b96b-ae1c-3328-a4b2-ee9ba89bc6d7
     alterId: 0
     cipher: auto
     udp: true
@@ -186,7 +186,7 @@ proxies:
     type: vmess
     server: gddxc.fosi.hk
     port: 25938
-    uuid: 6b6f48b9-95b1-35e9-961c-e0bc6b7c4c57
+    uuid: 6829b96b-ae1c-3328-a4b2-ee9ba89bc6d7
     alterId: 2
     cipher: auto
     udp: true
